@@ -1,5 +1,4 @@
-#ATTENTION! README IS NOT FIXED
-\\
+
 
 # plasmajs
 
